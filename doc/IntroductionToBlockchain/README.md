@@ -13,7 +13,7 @@ Simply put, it's a mesh of libraries of blacked out record books that are locked
 Since it's distributed and decentralized, there is no need for the common Middle man...
 
 <div align="center">
-	<img src="./assets/middleman.gif" style="width: 30px;height: 40px" alt="Martin Kessler's Middleman" />
+	<img src="./assets/Memes/middleman.gif" style="width: 30px;height: 40px" alt="Martin Kessler's Middleman" />
 </div>
 
 ## This is what's awesome about Blockchain...
@@ -63,19 +63,19 @@ More on the security, there is the **consensus mechanism**. This ensures that al
 1. **Proof of Work (PoW)**: This was used by the prime blockchain, Bitcoin. This involved having the nodes (miners) solve complex mathematical puzzles to validate transactions.
 
 <div align="center">
-	<img src="./assets/bitcoin.gif" style="width: 160px;height: 90px" alt="Bitcoin to the Moon" />
+	<img src="./assets/Memes/bitcoin.gif" style="width: 160px;height: 90px" alt="Bitcoin to the Moon" />
 </div>
 
 2. **Proof of Stake (PoS)**: Transaction validatora are chosen based on the ammount of crypto they hold and stake. There exists a **Delegated PoS (DPoS)** that where network participants vote for delegates who then validate transactions and create new blocks.
 
 <div align="center">
-	<img src="./assets/spongebob-money.gif" style="width: 100px;height: 90px" alt="Spongebob Mooney!" />
+	<img src="./assets/Memes/spongebob-money.gif" style="width: 100px;height: 90px" alt="Spongebob Mooney!" />
 </div>
 
 3. **Proof of Authority (PoA)**: This is where a small, pre-approved group of validators, known as "authorities," are responsible for verifying transactions and creating new blocks.
 
 <div align="center">
-	<img src="./assets/authoritah.gif" style="width: 160px;height: 90px" alt="Respect my Authoritaj!" />
+	<img src="./assets/Memes/authoritah.gif" style="width: 160px;height: 90px" alt="Respect my Authoritaj!" />
 </div>
 
 Each of the consensus protocols above maintain the **Byzantine Fault Tolerance (BFT)** i.e. a characteristic of a system's ability to function correctly and reach consensus even when some of its components fail or act maliciously.
